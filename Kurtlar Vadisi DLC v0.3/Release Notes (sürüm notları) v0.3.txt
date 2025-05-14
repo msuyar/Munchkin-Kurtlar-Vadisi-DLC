@@ -1,0 +1,16 @@
+Release Notes (sürüm notları)
+1- Kartların hepsi yüksek kaliteye çıkarıldı böylelikle kartlarda 
+baskı sonrası çözünürlük sorunları ortadan kalktı.
+2- Kartların hepsinde Kurtlar Vadisinin Karakterlerinin fotoğrafları yerine
+AI ile oluşturulmuş Munchkin'e uygun olan resimler eklendi.
+3- Kartların fontları arttırılarak okunabilirlik arttırıldı.
+4- Önceki sürümün aksine kartların hepsi tek tek sunuldu. Sebebi baskıcılarda
+kartların basımı için A3 boyutu kağıtların kullanılmasının ekonomik olarak daha
+mantıklı olması (yakın zamanda A3 şeklinde veya cdr dosyası olarak basılmaya hazır 
+dosyaları Release etmeye çalışacağım)
+5- Oynanışa ek bir mekanik eklendi. 
+Eş mekaniği: Bu yeni mekanik sayesinde oyuncular Eş kartlarını eşyalarının yanına 
+indirerek çeşitli avantajlardan faydalanabilirler. (Hamal kartı gibi ama hamal kartının 
+özelliklerine sahip değiller)
+6- Ek paket Mafya ve Ajan olarak iki sınıfa sahip. 
+7- Ek paket Drow ırkına sahip.

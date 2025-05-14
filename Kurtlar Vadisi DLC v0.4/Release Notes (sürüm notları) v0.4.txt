@@ -1,0 +1,7 @@
+Release Notes (sürüm notları)
+1- Kartların hepsine baskıcılarda sıkıntı çıkmaması adına hata payı eklendi
+2- Yakın zamanda A3 şeklinde veya cdr dosyası olarak basılmaya hazır 
+dosyaları Release etmeye çalışacağım.
+3- Ek paket Kayseri deki en ünlü oyun cafelerinden biri olan Lava Coffee de 
+yakın zamanda testing'e başlanmak üzere teslim edildi.
+ 
